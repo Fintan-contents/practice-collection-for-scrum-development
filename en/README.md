@@ -1,4 +1,4 @@
-# Practice sheet for scrum development
+# Scrum dev practice collection
 
 This sheet lists actual issues that have occurred in scrums and how they can be solved.  
 Use these as a guide when planning scrums or when you encounter problems.
