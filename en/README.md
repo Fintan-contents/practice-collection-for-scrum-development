@@ -1,4 +1,4 @@
-# Scrum dev practice collection
+# Practice collection for scrum development
 
 This sheet lists actual issues that have occurred in scrums and how they can be solved.  
 Use these as a guide when planning scrums or when you encounter problems.
@@ -6,8 +6,8 @@ Use these as a guide when planning scrums or when you encounter problems.
 ## Accessing this document
 
 This document can be viewed or downloaded using the following links.  
-* [Practice_sheet_for_scrum_development.xlsx](./docs/Practice_sheet_for_scrum_development.xlsx?raw=true)
-* [Practice_sheet_for_scrum_development.pdf](./docs/Practice_sheet_for_scrum_development.pdf?raw=true)
+* [Practice_collection_for_scrum_development.xlsx](./docs/Practice_collection_for_scrum_development.xlsx?raw=true)
+* [Practice_collection_for_scrum_development.pdf](./docs/Practice_collection_for_scrum_development.pdf?raw=true)
 
 ## Licensing
 
